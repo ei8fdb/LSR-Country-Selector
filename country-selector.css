@@ -1,0 +1,38 @@
+.ui-menu {
+  width: 20%;
+  list-style-type: none;
+  background-color: #fff;
+  border: 1px solid #bfc1c3;
+  padding: 0;
+  -webkit-box-shadow: 0 6px 12px rgba(0, 0, 0, 0.175);
+  -moz-box-shadow: 0 6px 12px rgba(0, 0, 0, 0.175);
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.175);
+  font-family: "nta", Arial, sans-serif;
+  font-size: 19px;
+  line-height: 1.31579;
+  font-weight: 400;
+  text-transform: none;
+  z-index: 1; }
+
+.ui-menu-item {
+  padding: 5px; }
+  .ui-menu-item.ui-state-focus {
+    color: #0b0c0c;
+    background-color: #dee0e2;
+    cursor: default; }
+
+.ui-helper-hidden-accessible {
+  display: none; }
+
+  input[type="text"] {
+    width: 50%;
+    font-family: "nta", Arial, sans-serif;
+    font-size: 19px;
+    line-height: 1.31579;
+    font-weight: 400;
+    text-transform: none;
+    border: 1px solid #bfc1c3;
+    width: calc(100% - 10px);
+    padding: 4px;
+    margin: auto;
+    background-color: #fff; }

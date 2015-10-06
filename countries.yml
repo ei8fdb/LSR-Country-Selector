@@ -1,0 +1,947 @@
+dateUpdated:                        "Wed, 30 Jul 2014 17:09:19 +0100"
+countries:
+    blank:
+        name:                       ""
+
+    afghanistan:
+        name:                       "Afghanistan"
+        data_alternative_spellings: "AF افغانستان"
+
+    albania:
+        name:                       "Albania"
+        data_alternative_spellings: "AL"
+
+    algeria:
+        name:                       "Algeria"
+        data_alternative_spellings: "DZ الجزائر"
+
+    american_samoa:
+        name:                       "American Samoa"
+        data_alternative_spellings: "AS"
+
+    andorra:
+        name:                       "Andorra"
+        data_alternative_spellings: "AD"
+        data_relevancy_booster:     "0.5"
+
+    angola:
+        name:                       "Angola"
+        data_alternative_spellings: "AO"
+
+    anguilla:
+        name:                       "Anguilla"
+        data_alternative_spellings: "AI"
+        data_relevancy_booster:     "0.5"
+
+    antigua_and_barbuda:
+        name:                       "Antigua and Barbuda"
+        data_alternative_spellings: "AG"
+        data_relevancy_booster:     "0.5"
+
+    argentina:
+        name:                       "Argentina"
+        data_alternative_spellings: "AR"
+
+    armenia:
+        name:                       "Armenia"
+        data_alternative_spellings: "AM Հայաստան"
+
+    aruba:
+        name:                       "Aruba"
+        data_alternative_spellings: "AW"
+
+    australia:
+        name:                       "Australia"
+        data_alternative_spellings: "AU"
+        data_relevancy_booster:     "1.5"
+
+    austria:
+        name:                       "Austria"
+        data_alternative_spellings: "AT Österreich Osterreich Oesterreich"
+
+    azerbaijan:
+        name:                       "Azerbaijan"
+        data_alternative_spellings: "AZ"
+
+    bahamas:
+        name:                       "Bahamas"
+        data_alternative_spellings: "BS"
+
+    bahrain:
+        name:                       "Bahrain"
+        data_alternative_spellings: "BH البحرين"
+
+    bangladesh:
+        name:                       "Bangladesh"
+        data_alternative_spellings: "BD বাংলাদেশ"
+        data_relevancy_booster:     "2"
+
+    barbados:
+        name:                       "Barbados"
+        data_alternative_spellings: "BB"
+
+    belarus:
+        name:                       "Belarus"
+        data_alternative_spellings: "BY Беларусь"
+
+    belgium:
+        name:                       "Belgium"
+        data_alternative_spellings: "BE België Belgie Belgien Belgique"
+        data_relevancy_booster:     "1.5"
+
+    belize:
+        name:                       "Belize"
+        data_alternative_spellings: "BZ"
+
+    benin:
+        name:                       "Benin"
+        data_alternative_spellings: "BJ"
+
+    bermuda:
+        name:                       "Bermuda"
+        data_alternative_spellings: "BM"
+        data_relevancy_booster:     "0.5"
+
+    bhutan:
+        name:                       "Bhutan"
+        data_alternative_spellings: "BT भूटान"
+
+    bolivia:
+        name:                       "Bolivia"
+        data_alternative_spellings: "BO"
+
+    bonaire_st_eustatius_saba:
+        name:                       "Bonaire/St Eustatius/Saba"
+        data_alternative_spellings: "BQ"
+
+    bosnia_and_herzegovina:
+        name:                       "Bosnia and Herzegovina"
+        data_alternative_spellings: "BA Босна и Херцеговина"
+
+    botswana:
+        name:                       "Botswana"
+        data_alternative_spellings: "BW"
+
+    brazil:
+        name:                       "Brazil"
+        data_alternative_spellings: "BR Brasil"
+        data_relevancy_booster:     "2"
+
+    british_antarctic_territory:
+        name:                       "British Antarctic Territory"
+        data_alternative_spellings: "BQ British A.T."
+
+    british_indian_ocean_territory:
+        name:                       "British Indian Ocean Territory"
+        data_alternative_spellings: "IO British I.O.T."
+
+    british_virgin_islands:
+        name:                       "British Virgin Islands"
+        data_alternative_spellings: "VG"
+
+    brunei:
+        name:                       "Brunei"
+        data_alternative_spellings: "BN"
+
+    bulgaria:
+        name:                       "Bulgaria"
+        data_alternative_spellings: "BG България"
+
+    burkina_faso:
+        name:                       "Burkina Faso"
+        data_alternative_spellings: "BF"
+
+    burma:
+        name:                       "Burma"
+        data_alternative_spellings: "BU"
+
+    burundi:
+        name:                       "Burundi"
+        data_alternative_spellings: "BI"
+
+    cambodia:
+        name:                       "Cambodia"
+        data_alternative_spellings: "KH កម្ពុជា"
+
+    cameroon:
+        name:                       "Cameroon"
+        data_alternative_spellings: "CM"
+
+    canada:
+        name:                       "Canada"
+        data_alternative_spellings: "CA"
+        data_relevancy_booster:     "2"
+
+    cape_verde:
+        name:                       "Cape Verde"
+        data_alternative_spellings: "CV Cabo"
+
+    cayman_islands:
+        name:                       "Cayman Islands"
+        data_alternative_spellings: "KY"
+        data_relevancy_booster:     "0.5"
+
+    central_african_republic:
+        name:                       "Central African Republic"
+        data_alternative_spellings: "CF"
+
+    chad:
+        name:                       "Chad"
+        data_alternative_spellings: "TD تشاد‎ Tchad"
+
+    chile:
+        name:                       "Chile"
+        data_alternative_spellings: "CL"
+
+    china:
+        name:                       "China"
+        data_alternative_spellings: "CN Zhongguo Zhonghua Peoples Republic 中国/中华"
+        data_relevancy_booster:     "3.5"
+
+    colombia:
+        name:                       "Colombia"
+        data_alternative_spellings: "CO"
+
+    comoros:
+        name:                       "Comoros"
+        data_alternative_spellings: "KM جزر القمر"
+
+    congo:
+        name:                       "Congo"
+        data_alternative_spellings: "CG Congo_Brazzaville"
+
+    costa_rica:
+        name:                       "Costa Rica"
+        data_alternative_spellings: "CR"
+
+    cote_divoire:
+        name:                       "Côte d'Ivoire"
+        data_alternative_spellings: "CI Cote d'Ivoire Ivory Coast"
+
+    croatia:
+        name:                       "Croatia"
+        data_alternative_spellings: "HR Hrvatska"
+
+    cuba:
+        name:                       "Cuba"
+        data_alternative_spellings: "CU"
+
+    curacao:
+        name:                       "Curaçao"
+        data_alternative_spellings: "CW Curacao"
+
+    cyprus:
+        name:                       "Cyprus"
+        data_alternative_spellings: "CY Κύπρος Kýpros Kıbrıs"
+
+    czech_republic:
+        name:                       "Czech Republic"
+        data_alternative_spellings: "CZ Česká Ceska Czechoslovakia"
+
+    democratic_republic_of_congo:
+        name:                       "Democratic Republic of Congo"
+        data_alternative_spellings: "CD"
+
+    denmark:
+        name:                       "Denmark"
+        data_alternative_spellings: "DK Danmark"
+        data_relevancy_booster:     "1.5"
+
+    djibouti:
+        name:                       "Djibouti"
+        data_alternative_spellings: "DJ جيبوتي‎ Jabuuti Gabuuti"
+
+    dominica:
+        name:                       "Dominica"
+        data_alternative_spellings: "DM Dominique"
+        data_relevancy_booster:     "0.5"
+
+    dominican_republic:
+        name:                       "Dominican Republic"
+        data_alternative_spellings: "DO"
+
+    ecuador:
+        name:                       "Ecuador"
+        data_alternative_spellings: "EC"
+
+    egypt:
+        name:                       "Egypt"
+        data_alternative_spellings: "EG"
+        data_relevancy_booster:     "1.5"
+
+    el_salvador:
+        name:                       "El Salvador"
+        data_alternative_spellings: "SV"
+
+    equatorial_guinea:
+        name:                       "Equatorial Guinea"
+        data_alternative_spellings: "GQ"
+
+    eritrea:
+        name:                       "Eritrea"
+        data_alternative_spellings: "ER إرتريا ኤርትራ"
+
+    estonia:
+        name:                       "Estonia"
+        data_alternative_spellings: "EE Eesti"
+
+    ethiopia:
+        name:                       "Ethiopia"
+        data_alternative_spellings: "ET ኢትዮጵያ"
+
+    falkland_islands:
+        name:                       "Falkland Islands"
+        data_alternative_spellings: "FK Las Malvinas"
+        data_relevancy_booster:     "0.5"
+
+    fiji:
+        name:                       "Fiji"
+        data_alternative_spellings: "FJ Viti फ़िजी"
+
+    finland:
+        name:                       "Finland"
+        data_alternative_spellings: "FI Suomi"
+
+    france:
+        name:                       "France"
+        data_alternative_spellings: "FR République Française"
+        data_relevancy_booster:     "2.5"
+
+    french_guiana:
+        name:                       "French Guiana"
+        data_alternative_spellings: "GF"
+
+    french_polynesia:
+        name:                       "French Polynesia"
+        data_alternative_spellings: "PF"
+
+    gabon:
+        name:                       "Gabon"
+        data_alternative_spellings: "GA République Gabonaise"
+
+    gambia:
+        name:                       "Gambia"
+        data_alternative_spellings: "GM"
+
+    georgia:
+        name:                       "Georgia"
+        data_alternative_spellings: "GE საქართველო"
+
+    germany:
+        name:                       "Germany"
+        data_alternative_spellings: "DE Bundesrepublik Deutschland"
+        data_relevancy_booster:     "3"
+
+    ghana:
+        name:                       "Ghana"
+        data_alternative_spellings: "GH"
+
+    gibraltar:
+        name:                       "Gibraltar"
+        data_alternative_spellings: "GI"
+        data_relevancy_booster:     "0.5"
+
+    greece:
+        name:                       "Greece"
+        data_alternative_spellings: "GR Ελλάδα"
+        data_relevancy_booster:     "1.5"
+
+    grenada:
+        name:                       "Grenada"
+        data_alternative_spellings: "GD"
+
+    guadeloupe:
+        name:                       "Guadeloupe"
+        data_alternative_spellings: "GD"
+
+    guatemala:
+        name:                       "Guatemala"
+        data_alternative_spellings: "GT"
+
+    guinea:
+        name:                       "Guinea"
+        data_alternative_spellings: "GN"
+
+    guinea_bissau:
+        name:                       "Guinea-Bissau"
+        data_alternative_spellings: "GW"
+
+    guyana:
+        name:                       "Guyana"
+        data_alternative_spellings: "GY"
+
+    haiti:
+        name:                       "Haiti"
+        data_alternative_spellings: "HT"
+
+    honduras:
+        name:                       "Honduras"
+        data_alternative_spellings: "HN"
+
+    hong_kong:
+        name:                       "Hong Kong"
+        data_alternative_spellings: "HK"
+
+    hungary:
+        name:                       "Hungary"
+        data_alternative_spellings: "HU Magyarország"
+
+    iceland:
+        name:                       "Iceland"
+        data_alternative_spellings: "IS Island"
+
+    india:
+        name:                       "India"
+        data_alternative_spellings: "IN भारत गणराज्य Hindustan"
+        data_relevancy_booster:     "3"
+
+    indonesia:
+        name:                       "Indonesia"
+        data_alternative_spellings: "ID"
+        data_relevancy_booster:     "2"
+
+    iran:
+        name:                       "Iran"
+        data_alternative_spellings: "IR ایران"
+
+    iraq:
+        name:                       "Iraq"
+        data_alternative_spellings: "IQ العراق‎"
+
+    ireland:
+        name:                       "Ireland"
+        data_alternative_spellings: "IE Éire Republic of Ireland Irish Republic"
+        data_relevancy_booster:     "1.2"
+
+    israel:
+        name:                       "Israel"
+        data_alternative_spellings: "IL إسرائيل ישראל"
+
+    italy:
+        name:                       "Italy"
+        data_alternative_spellings: "IT Italia"
+        data_relevancy_booster:     "2"
+
+    jamaica:
+        name:                       "Jamaica"
+        data_alternative_spellings: "JM"
+
+    japan:
+        name:                       "Japan"
+        data_alternative_spellings: "JP Nippon Nihon 日本"
+        data_relevancy_booster:     "2.5"
+
+    jordan:
+        name:                       "Jordan"
+        data_alternative_spellings: "JO الأردن"
+
+    kazakhstan:
+        name:                       "Kazakhstan"
+        data_alternative_spellings: "KZ Қазақстан Казахстан"
+
+    kenya:
+        name:                       "Kenya"
+        data_alternative_spellings: "KE"
+
+    kiribati:
+        name:                       "Kiribati"
+        data_alternative_spellings: "KI"
+
+    kosovo:
+        name:                       "Kosovo"
+        data_alternative_spellings: ""
+
+    kuwait:
+        name:                       "Kuwait"
+        data_alternative_spellings: "KW الكويت"
+
+    kyrgyzstan:
+        name:                       "Kyrgyzstan"
+        data_alternative_spellings: "KG Кыргызстан"
+
+    laos:
+        name:                       "Laos"
+        data_alternative_spellings: "LA"
+
+    latvia:
+        name:                       "Latvia"
+        data_alternative_spellings: "LV LatvijaZ"
+
+    lebanon:
+        name:                       "Lebanon"
+        data_alternative_spellings: "LB لبنان"
+
+    lesotho:
+        name:                       "Lesotho"
+        data_alternative_spellings: "LS"
+
+    liberia:
+        name:                       "Liberia"
+        data_alternative_spellings: "LR"
+
+    libya:
+        name:                       "Libya"
+        data_alternative_spellings: "LY ليبيا"
+
+    liechtenstein:
+        name:                       "Liechtenstein"
+        data_alternative_spellings: "LI"
+
+    lithuania:
+        name:                       "Lithuania"
+        data_alternative_spellings: "LT Lietuva"
+
+    luxembourg:
+        name:                       "Luxembourg"
+        data_alternative_spellings: "LU"
+
+    macao:
+        name:                       "Macao"
+        data_alternative_spellings: "MO"
+
+    macedonia:
+        name:                       "Macedonia"
+        data_alternative_spellings: "MK Македонија"
+
+    madagascar:
+        name:                       "Madagascar"
+        data_alternative_spellings: "MG Madagasikara"
+
+    malawi:
+        name:                       "Malawi"
+        data_alternative_spellings: "MW"
+
+    malaysia:
+        name:                       "Malaysia"
+        data_alternative_spellings: "MY"
+
+    maldives:
+        name:                       "Maldives"
+        data_alternative_spellings: "MV"
+
+    mali:
+        name:                       "Mali"
+        data_alternative_spellings: "ML"
+
+    malta:
+        name:                       "Malta"
+        data_alternative_spellings: "MT"
+
+    marshall_islands:
+        name:                       "Marshall Islands"
+        data_alternative_spellings: "MH"
+        data_relevancy_booster:     "0.5"
+
+    martinique:
+        name:                       "Martinique"
+        data_alternative_spellings: "MQ"
+
+    mauritania:
+        name:                       "Mauritania"
+        data_alternative_spellings: "MR الموريتانية"
+
+    mauritius:
+        name:                       "Mauritius"
+        data_alternative_spellings: "MU"
+
+    mayotte:
+        name:                       "Mayotte"
+        data_alternative_spellings: "YT"
+
+    mexico:
+        name:                       "Mexico"
+        data_alternative_spellings: "MX Mexicanos"
+        data_relevancy_booster:     "1.5"
+
+    micronesia:
+        name:                       "Micronesia"
+        data_alternative_spellings: "FM"
+
+    moldova:
+        name:                       "Moldova"
+        data_alternative_spellings: "MD"
+
+    monaco:
+        name:                       "Monaco"
+        data_alternative_spellings: "MC"
+
+    mongolia:
+        name:                       "Mongolia"
+        data_alternative_spellings: "MN Mongγol ulus Монгол улс"
+
+    montenegro:
+        name:                       "Montenegro"
+        data_alternative_spellings: "ME"
+
+    montserrat:
+        name:                       "Montserrat"
+        data_alternative_spellings: "MS"
+        data_relevancy_booster:     "0.5"
+
+    morocco:
+        name:                       "Morocco"
+        data_alternative_spellings: "MA المغرب EH Western Sahara"
+
+    mozambique:
+        name:                       "Mozambique"
+        data_alternative_spellings: "MZ Moçambique"
+
+    namibia:
+        name:                       "Namibia"
+        data_alternative_spellings: "NA Namibië"
+
+    nauru:
+        name:                       "Nauru"
+        data_alternative_spellings: "NR Naoero"
+        data_relevancy_booster:     "0.5"
+
+    nepal:
+        name:                       "Nepal"
+        data_alternative_spellings: "NP नेपाल"
+
+    netherlands:
+        name:                       "Netherlands"
+        data_alternative_spellings: "NL Holland Nederland"
+        data_relevancy_booster:     "1.5"
+
+    new_caledonia:
+        name:                       "New Caledonia"
+        data_alternative_spellings: "NC"
+
+    new_zealand:
+        name:                       "New Zealand"
+        data_alternative_spellings: "NZ Aotearoa"
+
+    nicaragua:
+        name:                       "Nicaragua"
+        data_alternative_spellings: "NI"
+
+    niger:
+        name:                       "Niger"
+        data_alternative_spellings: "NE Nijar"
+
+    nigeria:
+        name:                       "Nigeria"
+        data_alternative_spellings: "NG Nijeriya Naíjíríà"
+        data_relevancy_booster:     "1.5"
+
+    north_korea:
+        name:                       "North Korea"
+        data_alternative_spellings: "KP"
+
+    norway:
+        name:                       "Norway"
+        data_alternative_spellings: "NO Norge Noreg"
+        data_relevancy_booster:     "1.5"
+
+    oman:
+        name:                       "Oman"
+        data_alternative_spellings: "OM عمان"
+
+    pakistan:
+        name:                       "Pakistan"
+        data_alternative_spellings: "PK پاکستان"
+        data_relevancy_booster:     "2"
+
+    palau:
+        name:                       "Palau"
+        data_alternative_spellings: "PW"
+        data_relevancy_booster:     "0.5"
+
+    panama:
+        name:                       "Panama"
+        data_alternative_spellings: "PA"
+
+    papua_new_guinea:
+        name:                       "Papua New Guinea"
+        data_alternative_spellings: "PG"
+
+    paraguay:
+        name:                       "Paraguay"
+        data_alternative_spellings: "PY"
+
+    peru:
+        name:                       "Peru"
+        data_alternative_spellings: "PE"
+
+    philippines:
+        name:                       "Philippines"
+        data_alternative_spellings: "PH Pilipinas"
+        data_relevancy_booster:     "1.5"
+
+    pitcairn_island:
+        name:                       "Pitcairn Island"
+        data_alternative_spellings: "PN"
+        data_relevancy_booster:     "0.5"
+
+    poland:
+        name:                       "Poland"
+        data_alternative_spellings: "PL Polska"
+        data_relevancy_booster:     "1.25"
+
+    portugal:
+        name:                       "Portugal"
+        data_alternative_spellings: "PT Portuguesa"
+        data_relevancy_booster:     "1.5"
+
+    qatar:
+        name:                       "Qatar"
+        data_alternative_spellings: "QA قطر"
+
+    reunion:
+        name:                       "Réunion"
+        data_alternative_spellings: "RE"
+
+    romania:
+        name:                       "Romania"
+        data_alternative_spellings: "RO Rumania Roumania România"
+
+    russia:
+        name:                       "Russia"
+        data_alternative_spellings: "RU Rossiya Российская Россия"
+        data_relevancy_booster:     "2.5"
+
+    rwanda:
+        name:                       "Rwanda"
+        data_alternative_spellings: "RW"
+
+    samoa:
+        name:                       "Samoa"
+        data_alternative_spellings: "WS Western Samoa"
+
+    san_marino:
+        name:                       "San Marino"
+        data_alternative_spellings: "SM"
+
+    sao_tome_principe:
+        name:                       "São Tomé and Principe"
+        data_alternative_spellings: "ST"
+
+    saudi_arabia:
+        name:                       "Saudi Arabia"
+        data_alternative_spellings: "SA السعودية"
+
+    senegal:
+        name:                       "Senegal"
+        data_alternative_spellings: "SN Sénégal"
+
+    serbia:
+        name:                       "Serbia"
+        data_alternative_spellings: "RS Србија Srbija"
+
+    seychelles:
+        name:                       "Seychelles"
+        data_alternative_spellings: "SC"
+        data_relevancy_booster:     "0.5"
+
+    sierra_leone:
+        name:                       "Sierra Leone"
+        data_alternative_spellings: "SL"
+
+    singapore:
+        name:                       "Singapore"
+        data_alternative_spellings: "SG Singapura  சிங்கப்பூர் குடியரசு 新加坡共和国"
+
+    slovakia:
+        name:                       "Slovakia"
+        data_alternative_spellings: "SK Slovenská Slovensko"
+
+    slovenia:
+        name:                       "Slovenia"
+        data_alternative_spellings: "SI Slovenija"
+
+    solomon_islands:
+        name:                       "Solomon Islands"
+        data_alternative_spellings: "SB"
+
+    somalia:
+        name:                       "Somalia"
+        data_alternative_spellings: "SO الصومال"
+
+    south_africa:
+        name:                       "South Africa"
+        data_alternative_spellings: "ZA RSA Suid-Afrika"
+
+    south_georgia_and_the_south_sandwich_islands:
+        name:                       "South Georgia and the South Sandwich Islands"
+        data_alternative_spellings: "GS"
+
+    south_korea:
+        name:                       "South Korea"
+        data_alternative_spellings: "KR"
+
+    south_sudan:
+        name:                       "South Sudan"
+        data_alternative_spellings: "SS"
+
+    spain:
+        name:                       "Spain"
+        data_alternative_spellings: "ES España"
+        data_relevancy_booster:     "2"
+
+    sri_lanka:
+        name:                       "Sri Lanka"
+        data_alternative_spellings: "LK ශ්‍රී ලංකා இலங்கை Ceylon"
+
+    st_helena_ascension_tristan_da_cunha:
+        name:                       "St Helena, Ascension and Tristan da Cunha"
+        data_alternative_spellings: "SH Ascension St Helena St Helena Dependencies Tristan Da Cunha"
+
+    st_kitts_nevis:
+        name:                       "St Kitts and Nevis"
+        data_alternative_spellings: "KN"
+
+    st_lucia:
+        name:                       "St Lucia"
+        data_alternative_spellings: "LC"
+
+    st_maarten:
+        name:                       "St Maarten"
+        data_alternative_spellings: "SX"
+
+    st_pierre_and_miquelon:
+        name:                       "St Pierre & Miquelon"
+        data_alternative_spellings: "PM"
+
+    st_vincent_and_the_grenadines:
+        name:                       "St Vincent and the Grenadines"
+        data_alternative_spellings: "VC"
+
+    sudan:
+        name:                       "Sudan"
+        data_alternative_spellings: "SD السودان"
+
+    suriname:
+        name:                       "Suriname"
+        data_alternative_spellings: "SR शर्नम् Sarnam Sranangron"
+
+    swaziland:
+        name:                       "Swaziland"
+        data_alternative_spellings: "SZ weSwatini Swatini Ngwane"
+
+    sweden:
+        name:                       "Sweden"
+        data_alternative_spellings: "SE Sverige"
+        data_relevancy_booster:     "1.5"
+
+    switzerland:
+        name:                       "Switzerland"
+        data_alternative_spellings: "CH Swiss Confederation Schweiz Suisse Svizzera Svizra"
+        data_relevancy_booster:     "1.5"
+
+    syria:
+        name:                       "Syria"
+        data_alternative_spellings: "SY سورية"
+
+    taiwan:
+        name:                       "Taiwan"
+        data_alternative_spellings: "TW"
+
+    tajikistan:
+        name:                       "Tajikistan"
+        data_alternative_spellings: "TJ Тоҷикистон Toçikiston"
+
+    tanzania:
+        name:                       "Tanzania"
+        data_alternative_spellings: "TZ"
+
+    thailand:
+        name:                       "Thailand"
+        data_alternative_spellings: "TH ประเทศไทย Prathet Thai"
+
+    togo:
+        name:                       "Togo"
+        data_alternative_spellings: "TG Togolese"
+
+    tonga:
+        name:                       "Tonga"
+        data_alternative_spellings: "TO"
+
+    trinidad_and_tobago:
+        name:                       "Trinidad and Tobago"
+        data_alternative_spellings: "TT"
+
+    tunisia:
+        name:                       "Tunisia"
+        data_alternative_spellings: "TN تونس"
+
+    turkey:
+        name:                       "Turkey"
+        data_alternative_spellings: "TR Türkiye Turkiye"
+
+    turkmenistan:
+        name:                       "Turkmenistan"
+        data_alternative_spellings: "TM Türkmenistan"
+
+    turks_and_caicos_islands:
+        name:                       "Turks and Caicos Islands"
+        data_alternative_spellings: "TC"
+        data_relevancy_booster:     "0.5"
+
+    tuvalu:
+        name:                       "Tuvalu"
+        data_alternative_spellings: "TV"
+        data_relevancy_booster:     "0.5"
+
+    uganda:
+        name:                       "Uganda"
+        data_alternative_spellings: "UG"
+
+    ukraine:
+        name:                       "Ukraine"
+        data_alternative_spellings: "UA Ukrayina Україна"
+
+    united_arab_emirates:
+        name:                       "United Arab Emirates"
+        data_alternative_spellings: "AE UAE الإمارات"
+
+    united_kingdom:
+        name:                       "United Kingdom"
+        data_alternative_spellings: "GB Great Britain England UK Wales Scotland Northern Ireland Untied Kingdom Geart Britain"
+        data_relevancy_booster:     "2.5"
+
+    usa:
+        name:                       "USA"
+        data_alternative_spellings: "US United States of America"
+        data_relevancy_booster:     "3.5"
+
+    uruguay:
+        name:                       "Uruguay"
+        data_alternative_spellings: "UY"
+
+    uzbekistan:
+        name:                       "Uzbekistan"
+        data_alternative_spellings: "UZ Ўзбекистон O'zbekstan O‘zbekiston"
+
+    vanuatu:
+        name:                       "Vanuatu"
+        data_alternative_spellings: "VU"
+
+    venezuela:
+        name:                       "Venezuela"
+        data_alternative_spellings: "VE"
+
+    vietnam:
+        name:                       "Vietnam"
+        data_alternative_spellings: "VN Việt Nam"
+        data_relevancy_booster:     "1.5"
+
+    wallis_and_futuna:
+        name:                       "Wallia and Futuna"
+        data_alternative_spellings: "WF"
+
+    western_sahara:
+        name:                       "Western Sahara"
+        data_alternative_spellings: "EH"
+
+    yemen:
+        name:                       "Yemen"
+        data_alternative_spellings: "YE اليمن"
+
+    zambia:
+        name:                       "Zambia"
+        data_alternative_spellings: "ZM"
+
+    zimbabwe:
+        name:                       "Zimbabwe"
+        data_alternative_spellings: "ZW"
